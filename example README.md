@@ -14,16 +14,15 @@
 
 ## Description
 
-A simple application for generating a README file from a series of prompts.
+An application to generate a README file from a series of prompts
 
 ## Installation
 
-Download the application and install Inquirer by using the `npm i` command.
+Download the repository and run "npm i" to instal inquirer.
 
 ## Usage
 
-Start the application by using the `node index.js` command in your command line terminal, then answer the prompts that appear.
-![Screenshot of the application](<assets/Screenshot 2023-12-07 200136.png>)
+Run "node index.js" to start the appplication and answer the prompts that appear.
 
 ## Contributions
 
